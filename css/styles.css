@@ -34,16 +34,16 @@ img {
   padding-left: 15px;
   padding-right: 15px;
 }
-.header-container {
-  display: flex;
-  gap: 332px;
-}
 .container {
   width: 100%;
   max-width: 1158px;
   padding-left: 15px;
   padding-right: 15px;
   margin: 0 auto;
+}
+.header-container {
+  display: flex;
+  gap: 332px;
 }
 .header-nav {
   display: flex;
