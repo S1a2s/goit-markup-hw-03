@@ -106,7 +106,8 @@ img {
   color: #404bbf;
 }
 .tit-btn {
-  padding-bottom: 120px;
+  padding-bottom: 188px;
+  padding-top: 188px;
 }
 .hero-container {
   background-color: #2e2f42;
@@ -136,6 +137,7 @@ img {
   padding: 16px 32px;
   display: block;
   margin: 0 auto;
+  min-width: 169px;
 }
 .button-order:hover,
 .button-order:focus {
