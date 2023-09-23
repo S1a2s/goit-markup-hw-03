@@ -58,7 +58,6 @@ img {
 }
 
 .header-logo {
-  display: flex;
   color: #4d5ae5;
   font-family: Raleway, sans-serif;
   font-size: 18px;
@@ -71,7 +70,6 @@ img {
 }
 .header-logo span {
   color: #2e2f42;
-  gap: 76px;
 }
 .logo-item {
 }
