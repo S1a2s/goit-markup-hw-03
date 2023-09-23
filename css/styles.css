@@ -161,10 +161,10 @@ img {
   padding-right: 156px;
   display: flex;
   gap: 24px;
+  flex-basis: calc((100% - 72px) / 4);
 }
 .subtitle-menu-item {
   max-width: 264px;
-  flex-basis: calc((100% - 72px) / 4);
 }
 .subtitle-name {
   color: #2e2f42;
