@@ -81,7 +81,6 @@ img {
   font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  padding: 24px 0;
 }
 .header-link:hover,
 .header-link:focus {
@@ -144,6 +143,10 @@ img {
 .button-order:focus {
   background-color: #404bbf;
 }
+.container {
+  padding-top: 120px;
+  padding-bottom: 120px;
+}
 .hidden-business {
   position: absolute;
   width: 1px;
@@ -163,9 +166,9 @@ img {
   padding-right: 156px;
   display: flex;
   gap: 24px;
+  flex-basis: calc((100% - 72px) / 4);
 }
 .subtitle-menu-item {
-  flex-basis: calc((100% - 72px) / 4);
   max-width: 264px;
 }
 .subtitle-name {
