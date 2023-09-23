@@ -42,11 +42,14 @@ img {
   padding-left: 15px;
   padding-right: 15px;
   margin: 0 auto;
+  padding-top: 24px;
+  padding-bottom: 24px;
 }
 .header-nav {
   display: flex;
   flex-grow: 1;
   justify-content: space-between;
+  align-items: center;
 }
 
 .header-logo {
@@ -58,6 +61,7 @@ img {
   line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
+  margin-right: 76px;
 }
 .header-logo span {
   color: #2e2f42;
