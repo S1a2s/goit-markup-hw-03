@@ -30,6 +30,7 @@ img {
 .header {
   padding-top: 25.5px;
   padding-bottom: 25.5px;
+  border-bottom: 1px solid #e7e9fc;
 }
 .header-container {
   display: flex;
@@ -37,7 +38,7 @@ img {
 }
 .container {
   width: 100%;
-  max-width: 1470px;
+  max-width: 1158px;
   padding-left: 15px;
   padding-right: 15px;
   margin: 0 auto;
