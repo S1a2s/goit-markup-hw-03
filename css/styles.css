@@ -260,7 +260,6 @@ img {
   flex-basis: calc((100% - 24px * 2) / 3);
 }
 .portfolio-img {
-  border-radius: 0px 0px 4px 4px;
 }
 .potr-container {
   padding: 32px 16px;
